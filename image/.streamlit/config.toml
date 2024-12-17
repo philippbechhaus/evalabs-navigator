@@ -1,0 +1,13 @@
+[server]
+fileWatcherType = "auto"
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#023618"  # pakistani-green
+backgroundColor = "#F7F0F0"  # snow
+secondaryBackgroundColor = "#FFFFFF"  # white
+textColor = "#000000"  # black
+

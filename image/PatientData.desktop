@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Patient Data Spreadsheet
+Comment=Open the Patient_Data.ods file
+Exec=libreoffice --calc /home/computeruse/Patient_Data.ods
+Icon=libreoffice-calc
+Terminal=false
+Categories=Office;Spreadsheet;
